@@ -6,14 +6,16 @@ totally blown away by the result, so I decided to move on to something
 different, but the effect can look pretty nice when applied to
 something like a flag:
 
-<insert gif here>
+[[https://thumbs.gfycat.com/LargeDazzlingGordonsetter-size_restricted.gif]]
+
+[[https://youtu.be/zPsZoTfC8EI][Higher res version]]
 
 The idea is that things like lighting and shading shouldn't look how a
 computer renders them, with gradient colors, but more how an artist
 that does hatching would do it, with varying the amount of hatches.
 This version integrates with Unity's standard lighting pipeline and
 applies the tonal art map as the final step, so that it can benefit
-from the calculation of the lighting done.
+from the calculation of the lighting.
 
 The project includes both a generator that generates the tonal art map
 as well as a shader that can render it.
